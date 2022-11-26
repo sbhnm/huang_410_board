@@ -1,0 +1,20 @@
+Replace Part CR0 SCHOTTKY in C:\Users\sbhnm\Desktop\410Board\ExtBoard\PCB_Project\EXT_USR_LED.SchDoc with SCHOTTKY from MSM8916_DRAM_PMIC_REF_Library.SchLib
+Replace Part CR1 SCHOTTKY in C:\Users\sbhnm\Desktop\410Board\ExtBoard\PCB_Project\EXT_USR_LED.SchDoc with SCHOTTKY from MSM8916_DRAM_PMIC_REF_Library.SchLib
+Replace Part CR2 SCHOTTKY in C:\Users\sbhnm\Desktop\410Board\ExtBoard\PCB_Project\EXT_USR_LED.SchDoc with SCHOTTKY from MSM8916_DRAM_PMIC_REF_Library.SchLib
+Replace Part D1 LED0 in C:\Users\sbhnm\Desktop\410Board\ExtBoard\PCB_Project\EXT_USR_LED.SchDoc with LED0 from Miscellaneous Devices.IntLib
+Replace Part D2 LED0 in C:\Users\sbhnm\Desktop\410Board\ExtBoard\PCB_Project\EXT_USR_LED.SchDoc with LED0 from Miscellaneous Devices.IntLib
+Replace Part D3 LED0 in C:\Users\sbhnm\Desktop\410Board\ExtBoard\PCB_Project\EXT_USR_LED.SchDoc with LED0 from Miscellaneous Devices.IntLib
+Replace Part D4 LED0 in C:\Users\sbhnm\Desktop\410Board\ExtBoard\PCB_Project\EXT_USR_LED.SchDoc with LED0 from Miscellaneous Devices.IntLib
+Replace Part P7 Header 4X2 in C:\Users\sbhnm\Desktop\410Board\ExtBoard\PCB_Project\EXT_USR_LED.SchDoc with Header 4X2 from Miscellaneous Connectors.IntLib
+Replace Part Q2 NFET_ZENER_BIDIR in C:\Users\sbhnm\Desktop\410Board\ExtBoard\PCB_Project\EXT_USR_LED.SchDoc with NFET_ZENER_BIDIR from MSM8916_DRAM_PMIC_REF_Library.SchLib
+Replace Part Q3 NFET_ZENER_BIDIR in C:\Users\sbhnm\Desktop\410Board\ExtBoard\PCB_Project\EXT_USR_LED.SchDoc with NFET_ZENER_BIDIR from MSM8916_DRAM_PMIC_REF_Library.SchLib
+Replace Part Q4 NFET_ZENER_BIDIR in C:\Users\sbhnm\Desktop\410Board\ExtBoard\PCB_Project\EXT_USR_LED.SchDoc with NFET_ZENER_BIDIR from MSM8916_DRAM_PMIC_REF_Library.SchLib
+Replace Part Q5 NFET_ZENER_BIDIR in C:\Users\sbhnm\Desktop\410Board\ExtBoard\PCB_Project\EXT_USR_LED.SchDoc with NFET_ZENER_BIDIR from MSM8916_DRAM_PMIC_REF_Library.SchLib
+Replace Part R54 Res1 in C:\Users\sbhnm\Desktop\410Board\ExtBoard\PCB_Project\EXT_USR_LED.SchDoc with Res1 from Miscellaneous Devices.IntLib
+Replace Part R55 Res1 in C:\Users\sbhnm\Desktop\410Board\ExtBoard\PCB_Project\EXT_USR_LED.SchDoc with Res1 from Miscellaneous Devices.IntLib
+Replace Part R56 Res1 in C:\Users\sbhnm\Desktop\410Board\ExtBoard\PCB_Project\EXT_USR_LED.SchDoc with Res1 from Miscellaneous Devices.IntLib
+Replace Part R57 Res1 in C:\Users\sbhnm\Desktop\410Board\ExtBoard\PCB_Project\EXT_USR_LED.SchDoc with Res1 from Miscellaneous Devices.IntLib
+Replace Part S2 SW-PB in C:\Users\sbhnm\Desktop\410Board\ExtBoard\PCB_Project\EXT_USR_LED.SchDoc with SW-PB from Miscellaneous Devices.IntLib
+Replace Part S3 SW-PB in C:\Users\sbhnm\Desktop\410Board\ExtBoard\PCB_Project\EXT_USR_LED.SchDoc with SW-PB from Miscellaneous Devices.IntLib
+Replace Part S4 SW-PB in C:\Users\sbhnm\Desktop\410Board\ExtBoard\PCB_Project\EXT_USR_LED.SchDoc with SW-PB from Miscellaneous Devices.IntLib
+Replace Part S? SW-DIP4 in C:\Users\sbhnm\Desktop\410Board\ExtBoard\PCB_Project\EXT_USR_LED.SchDoc with SW-DIP4 from Miscellaneous Devices.IntLib
