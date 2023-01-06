@@ -1,1 +1,18 @@
-Record=TopLevelDocument|FileName=05 MSM8916_CONTROL.SchDoc
+Record=TopLevelDocument|FileName=05 MSM8916_CONTROL.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=05 MSM8916_CONTROL.SchDoc|FileName=06_MSM8916_EBIO LPDDR3.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=05 MSM8916_CONTROL.SchDoc|FileName=07_MSM8916_GPIO.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=05 MSM8916_CONTROL.SchDoc|FileName=08_MSM8916_RF.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=05 MSM8916_CONTROL.SchDoc|FileName=09_MSM8916_MIPI.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=05 MSM8916_CONTROL.SchDoc|FileName=10 MSM8916_POWER1.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=05 MSM8916_CONTROL.SchDoc|FileName=11 MSM8916_POWER2.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=05 MSM8916_CONTROL.SchDoc|FileName=12 MSM8916_POWER3.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=05 MSM8916_CONTROL.SchDoc|FileName=13 MSM8916_GND NC.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=05 MSM8916_CONTROL.SchDoc|FileName=14 PM8916_CONTROL CLOCK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=05 MSM8916_CONTROL.SchDoc|FileName=15 PM8916_CHARGING GPIO.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=05 MSM8916_CONTROL.SchDoc|FileName=16 PM8916_SMPS.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=05 MSM8916_CONTROL.SchDoc|FileName=17 PM8916_LDO.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=05 MSM8916_CONTROL.SchDoc|FileName=20 MEMORY_CONTROL.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=05 MSM8916_CONTROL.SchDoc|FileName=21 MEMORY_POWER.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=05 MSM8916_CONTROL.SchDoc|FileName=BYPASS_CAP.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=05 MSM8916_CONTROL.SchDoc|FileName=INTERFACE_PWR_LS_HS.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=05 MSM8916_CONTROL.SchDoc|FileName=SD Card_WCN_RF.SchDoc|SheetNumber= 

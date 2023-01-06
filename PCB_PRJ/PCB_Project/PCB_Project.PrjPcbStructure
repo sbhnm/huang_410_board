@@ -1,1 +1,4 @@
-Record=TopLevelDocument|FileName=EXT_USR_LED.SchDoc
+Record=TopLevelDocument|FileName=EXT_USR_LED.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=EXT_USR_LED.SchDoc|FileName=INTERFACE_PWR_LS_HS.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=EXT_USR_LED.SchDoc|FileName=PWR_BUCK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=EXT_USR_LED.SchDoc|FileName=USB_HUB.SchDoc|SheetNumber= 
